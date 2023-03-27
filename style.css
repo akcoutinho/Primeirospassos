@@ -14,7 +14,7 @@ main {
 }
 h1 {
   color: #592c28;
-  box-shadow: 3px 3px 15px rgba(red, green, blue, alpha);
+  box-shadow: 3px 3px 15px;
 }
 h2 {
   color: #ce3e39;
