@@ -8,7 +8,8 @@ body {
 }
 main {
   background-color: beige;
-  width: 600px;
+
+  width: max600px;
   margin: auto;
   padding: 16px;
 }
